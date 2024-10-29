@@ -16,6 +16,10 @@
 <p>
    ## Output:
 
+
+
+
+
 ## 📸 Screenshot 
 
    
@@ -32,5 +36,5 @@
 
 ## 📸 video
 
-<video src = "" width = "300">
+<video src = "https://github.com/user-attachments/assets/8511130b-01b5-4487-9689-8b5e070b52e2" width = "300">
 
